@@ -62,4 +62,49 @@ public class Warehouse {
 		}
 		return rs;
 	}
+	
+	public void deleteProduct(int id) throws SQLException {
+		String cmd = null;
+		ResultSet rs = null;
+		boolean repeatId = true;
+		cmd = "select * from finalassessment.store;";
+		rs = stmt.executeQuery(cmd);
+		while (rs.next()) {
+			int found = rs.getInt("id");
+			if (found == id) {
+				repeatId = false;
+				cmd = "Delete from finalassessment.store where id = " + id + ";";
+				stmt.executeUpdate(cmd);
+				System.out.println("Product with ID: " + id + " is removed from the database");
+			}
+		}
+
+		if (repeatId) {
+			System.out.println("Could not find product with ID: " + id);
+		}
+	
+
+	}
+	
+	public void addProduct(int id, String name, int amount) throws SQLException {
+		String cmd = null;
+		ResultSet rs = null;
+		boolean repeatId = true;
+		cmd = "select * from finalassessment.store;";
+		rs = stmt.executeQuery(cmd);
+
+		while (rs.next()) {
+			int found = rs.getInt("id");
+			if (found == id) {
+				repeatId = false;
+				System.out.println("There is already a product with ID: " + id);
+			}
+		}
+		if (repeatId) {
+			cmd = "Insert into finalassessment.store values (" + id + ", '"+ name +"', " + amount + ");";
+			stmt.executeUpdate(cmd);
+
+		}
+
+	}
 }
