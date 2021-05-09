@@ -63,7 +63,7 @@ public class Warehouse {
 		return rs;
 	}
 	
-	public void deleteProduct(int id) throws SQLException {
+	public boolean deleteProduct(int id) throws SQLException {
 		String cmd = null;
 		ResultSet rs = null;
 		boolean repeatId = true;
@@ -75,18 +75,18 @@ public class Warehouse {
 				repeatId = false;
 				cmd = "Delete from finalassessment.store where id = " + id + ";";
 				stmt.executeUpdate(cmd);
-				System.out.println("Product with ID: " + id + " is removed from the database");
+				System.out.println("Product with ID " + id + " is removed from the database");
+				break;
 			}
 		}
 
 		if (repeatId) {
 			System.out.println("Could not find product with ID: " + id);
 		}
-	
-
+		return repeatId;
 	}
 	
-	public void addProduct(int id, String name, int amount) throws SQLException {
+	public boolean addProduct(int id, String name, int amount) throws SQLException {
 		String cmd = null;
 		ResultSet rs = null;
 		boolean repeatId = true;
@@ -105,6 +105,6 @@ public class Warehouse {
 			stmt.executeUpdate(cmd);
 
 		}
-
+		return repeatId;
 	}
 }
