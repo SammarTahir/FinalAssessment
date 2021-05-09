@@ -3,6 +3,7 @@ package store;
 import java.sql.SQLException;
 import java.util.Scanner;
 
+// hello demo
 public class Store {
 
 	public static void main(String args[]) throws SQLException {
