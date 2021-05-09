@@ -1,0 +1,314 @@
+src/main/java/store/Store.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/store/Store.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/store/Store.java:6:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/store/Store.java:6:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/store/Store.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Store.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Store.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/store/Store.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/store/Store.java:9:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/main/java/store/Store.java:9:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/main/java/store/Store.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+src/main/java/store/Store.java:9:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+src/main/java/store/Store.java:9:	ShortVariable:	ShortVariable: Avoid variables with short names like sc
+src/main/java/store/Store.java:9:	ShortVariable:	ShortVariable: Avoid variables with short names like sc
+src/main/java/store/Store.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'dao' could be declared final
+src/main/java/store/Store.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'dao' could be declared final
+src/main/java/store/Store.java:11:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'userInput' (lines '11'-'20').
+src/main/java/store/Store.java:11:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'userInput' (lines '11'-'20').
+src/main/java/store/Store.java:11:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'userInput' is never used (overwritten on line 20)
+src/main/java/store/Store.java:11:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'userInput' is never used (overwritten on line 20)
+src/main/java/store/Store.java:13:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Store.java:13:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Store.java:17:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Store.java:17:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Store.java:18:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Store.java:18:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Store.java:19:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:19:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:29:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:29:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:34:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:34:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/main/java/store/Store.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/main/java/store/Store.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/store/Store.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/store/Store.java:36:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:36:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'name' could be declared final
+src/main/java/store/Store.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'name' could be declared final
+src/main/java/store/Store.java:38:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:38:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'amount' could be declared final
+src/main/java/store/Store.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'amount' could be declared final
+src/main/java/store/Store.java:44:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:44:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/store/Store.java:48:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Store.java:48:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Store.java:51:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Store.java:51:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:10:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/store/Warehouse.java:10:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/store/Warehouse.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/store/Warehouse.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/store/Warehouse.java:11:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/store/Warehouse.java:11:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/store/Warehouse.java:11:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the con field if you want a default access modifier
+src/main/java/store/Warehouse.java:11:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the con field if you want a default access modifier
+src/main/java/store/Warehouse.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/store/Warehouse.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/store/Warehouse.java:11:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/store/Warehouse.java:11:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/store/Warehouse.java:11:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'con'
+src/main/java/store/Warehouse.java:11:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'con'
+src/main/java/store/Warehouse.java:12:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/store/Warehouse.java:12:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/store/Warehouse.java:12:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the stmt field if you want a default access modifier
+src/main/java/store/Warehouse.java:12:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the stmt field if you want a default access modifier
+src/main/java/store/Warehouse.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/store/Warehouse.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/store/Warehouse.java:12:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/store/Warehouse.java:12:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/store/Warehouse.java:12:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'stmt'
+src/main/java/store/Warehouse.java:12:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'stmt'
+src/main/java/store/Warehouse.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the ps field if you want a default access modifier
+src/main/java/store/Warehouse.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the ps field if you want a default access modifier
+src/main/java/store/Warehouse.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/store/Warehouse.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/store/Warehouse.java:13:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/store/Warehouse.java:13:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/store/Warehouse.java:13:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'ps'
+src/main/java/store/Warehouse.java:13:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'ps'
+src/main/java/store/Warehouse.java:13:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/main/java/store/Warehouse.java:13:	ShortVariable:	ShortVariable: Avoid variables with short names like ps
+src/main/java/store/Warehouse.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:16:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'rs' (lines '16'-'26').
+src/main/java/store/Warehouse.java:16:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'rs' (lines '16'-'26').
+src/main/java/store/Warehouse.java:16:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/store/Warehouse.java:16:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/store/Warehouse.java:17:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cmd' (lines '17'-'25').
+src/main/java/store/Warehouse.java:17:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cmd' (lines '17'-'25').
+src/main/java/store/Warehouse.java:17:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'cmd' is never used (overwritten on line 25)
+src/main/java/store/Warehouse.java:17:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'cmd' is never used (overwritten on line 25)
+src/main/java/store/Warehouse.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'url' could be declared final
+src/main/java/store/Warehouse.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'url' could be declared final
+src/main/java/store/Warehouse.java:25:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "select * from finalassessment.store;" appears 4 times in this file; the first occurrence is on line 25
+src/main/java/store/Warehouse.java:25:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "select * from finalassessment.store;" appears 4 times in this file; the first occurrence is on line 25
+src/main/java/store/Warehouse.java:27:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/store/Warehouse.java:27:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/store/Warehouse.java:28:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:28:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:29:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:29:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:33:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/store/Warehouse.java:33:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/store/Warehouse.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:38:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'rs' (lines '38'-'41').
+src/main/java/store/Warehouse.java:38:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'rs' (lines '38'-'41').
+src/main/java/store/Warehouse.java:38:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/store/Warehouse.java:38:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/store/Warehouse.java:38:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 41)
+src/main/java/store/Warehouse.java:38:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 41)
+src/main/java/store/Warehouse.java:39:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cmd' (lines '39'-'40').
+src/main/java/store/Warehouse.java:39:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cmd' (lines '39'-'40').
+src/main/java/store/Warehouse.java:39:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'cmd' is never used (overwritten on line 40)
+src/main/java/store/Warehouse.java:39:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'cmd' is never used (overwritten on line 40)
+src/main/java/store/Warehouse.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/store/Warehouse.java:43:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/store/Warehouse.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/main/java/store/Warehouse.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/main/java/store/Warehouse.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/store/Warehouse.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/store/Warehouse.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/main/java/store/Warehouse.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/main/java/store/Warehouse.java:45:	ShortVariable:	ShortVariable: Avoid variables with short names like p
+src/main/java/store/Warehouse.java:45:	ShortVariable:	ShortVariable: Avoid variables with short names like p
+src/main/java/store/Warehouse.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'a' could be declared final
+src/main/java/store/Warehouse.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'a' could be declared final
+src/main/java/store/Warehouse.java:46:	ShortVariable:	ShortVariable: Avoid variables with short names like a
+src/main/java/store/Warehouse.java:46:	ShortVariable:	ShortVariable: Avoid variables with short names like a
+src/main/java/store/Warehouse.java:47:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:47:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:52:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:52:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/store/Warehouse.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/store/Warehouse.java:52:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/store/Warehouse.java:52:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/store/Warehouse.java:53:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'rs' (lines '53'-'56').
+src/main/java/store/Warehouse.java:53:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'rs' (lines '53'-'56').
+src/main/java/store/Warehouse.java:53:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/store/Warehouse.java:53:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/store/Warehouse.java:53:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 56)
+src/main/java/store/Warehouse.java:53:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 56)
+src/main/java/store/Warehouse.java:54:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cmd' (lines '54'-'55').
+src/main/java/store/Warehouse.java:54:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cmd' (lines '54'-'55').
+src/main/java/store/Warehouse.java:54:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'cmd' is never used (overwritten on line 55)
+src/main/java/store/Warehouse.java:54:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'cmd' is never used (overwritten on line 55)
+src/main/java/store/Warehouse.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/store/Warehouse.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/store/Warehouse.java:59:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/main/java/store/Warehouse.java:59:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/main/java/store/Warehouse.java:59:	ShortVariable:	ShortVariable: Avoid variables with short names like p
+src/main/java/store/Warehouse.java:59:	ShortVariable:	ShortVariable: Avoid variables with short names like p
+src/main/java/store/Warehouse.java:60:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'a' could be declared final
+src/main/java/store/Warehouse.java:60:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'a' could be declared final
+src/main/java/store/Warehouse.java:60:	ShortVariable:	ShortVariable: Avoid variables with short names like a
+src/main/java/store/Warehouse.java:60:	ShortVariable:	ShortVariable: Avoid variables with short names like a
+src/main/java/store/Warehouse.java:61:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:61:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:66:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:66:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/store/Warehouse.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/store/Warehouse.java:66:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/store/Warehouse.java:66:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/store/Warehouse.java:67:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cmd' (lines '67'-'70').
+src/main/java/store/Warehouse.java:67:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cmd' (lines '67'-'70').
+src/main/java/store/Warehouse.java:67:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'cmd' is never used (overwritten on line 70)
+src/main/java/store/Warehouse.java:67:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'cmd' is never used (overwritten on line 70)
+src/main/java/store/Warehouse.java:68:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/main/java/store/Warehouse.java:68:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/main/java/store/Warehouse.java:68:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'rs' (lines '68'-'71').
+src/main/java/store/Warehouse.java:68:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'rs' (lines '68'-'71').
+src/main/java/store/Warehouse.java:68:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/store/Warehouse.java:68:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/store/Warehouse.java:68:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 71)
+src/main/java/store/Warehouse.java:68:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 71)
+src/main/java/store/Warehouse.java:69:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'repeatId' (lines '69'-'75').
+src/main/java/store/Warehouse.java:69:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'repeatId' (lines '69'-'75').
+src/main/java/store/Warehouse.java:72:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/store/Warehouse.java:72:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/store/Warehouse.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'found' could be declared final
+src/main/java/store/Warehouse.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'found' could be declared final
+src/main/java/store/Warehouse.java:78:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:78:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:84:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:84:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:89:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:89:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/store/Warehouse.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amount' is not assigned and could be declared final
+src/main/java/store/Warehouse.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'amount' is not assigned and could be declared final
+src/main/java/store/Warehouse.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/store/Warehouse.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/store/Warehouse.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/store/Warehouse.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/store/Warehouse.java:89:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/store/Warehouse.java:89:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/store/Warehouse.java:90:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cmd' (lines '90'-'93').
+src/main/java/store/Warehouse.java:90:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cmd' (lines '90'-'93').
+src/main/java/store/Warehouse.java:90:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'cmd' is never used (overwritten on line 93)
+src/main/java/store/Warehouse.java:90:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'cmd' is never used (overwritten on line 93)
+src/main/java/store/Warehouse.java:91:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/main/java/store/Warehouse.java:91:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/main/java/store/Warehouse.java:91:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'rs' (lines '91'-'94').
+src/main/java/store/Warehouse.java:91:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'rs' (lines '91'-'94').
+src/main/java/store/Warehouse.java:91:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/store/Warehouse.java:91:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/main/java/store/Warehouse.java:91:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 94)
+src/main/java/store/Warehouse.java:91:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'rs' is never used (overwritten on line 94)
+src/main/java/store/Warehouse.java:92:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'repeatId' (lines '92'-'99').
+src/main/java/store/Warehouse.java:92:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'repeatId' (lines '92'-'99').
+src/main/java/store/Warehouse.java:96:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/store/Warehouse.java:96:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/store/Warehouse.java:97:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'found' could be declared final
+src/main/java/store/Warehouse.java:97:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'found' could be declared final
+src/main/java/store/Warehouse.java:99:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'repeatId' (lines '99'-'99').
+src/main/java/store/Warehouse.java:99:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'repeatId' (lines '99'-'99').
+src/main/java/store/Warehouse.java:100:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/store/Warehouse.java:100:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/test/java/store/WarehouseTest.java:9:	UnusedImports:	UnusedImports: Avoid unused imports such as 'org.junit.jupiter.api.AfterAll'
+src/test/java/store/WarehouseTest.java:9:	UnusedImports:	UnusedImports: Avoid unused imports such as 'org.junit.jupiter.api.AfterAll'
+src/test/java/store/WarehouseTest.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/store/WarehouseTest.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/store/WarehouseTest.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/store/WarehouseTest.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/store/WarehouseTest.java:14:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/store/WarehouseTest.java:14:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/store/WarehouseTest.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the dao field if you want a default access modifier
+src/test/java/store/WarehouseTest.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the dao field if you want a default access modifier
+src/test/java/store/WarehouseTest.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/store/WarehouseTest.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/store/WarehouseTest.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/store/WarehouseTest.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/store/WarehouseTest.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setUp method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setUp method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the findProductTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the findProductTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/store/WarehouseTest.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/store/WarehouseTest.java:23:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/store/WarehouseTest.java:23:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/store/WarehouseTest.java:24:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/test/java/store/WarehouseTest.java:24:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/test/java/store/WarehouseTest.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/test/java/store/WarehouseTest.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/test/java/store/WarehouseTest.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/test/java/store/WarehouseTest.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/test/java/store/WarehouseTest.java:26:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/store/WarehouseTest.java:26:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/store/WarehouseTest.java:27:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:27:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:32:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the listProductTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:32:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the listProductTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:32:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/store/WarehouseTest.java:32:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/store/WarehouseTest.java:33:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/test/java/store/WarehouseTest.java:33:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/test/java/store/WarehouseTest.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/test/java/store/WarehouseTest.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rs' could be declared final
+src/test/java/store/WarehouseTest.java:33:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/test/java/store/WarehouseTest.java:33:	ShortVariable:	ShortVariable: Avoid variables with short names like rs
+src/test/java/store/WarehouseTest.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/store/WarehouseTest.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/store/WarehouseTest.java:36:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:36:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:37:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:37:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:38:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:38:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:43:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the addProductTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:43:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the addProductTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/store/WarehouseTest.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/store/WarehouseTest.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/store/WarehouseTest.java:44:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/store/WarehouseTest.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/test/java/store/WarehouseTest.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/test/java/store/WarehouseTest.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'amount' could be declared final
+src/test/java/store/WarehouseTest.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'amount' could be declared final
+src/test/java/store/WarehouseTest.java:47:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:47:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:51:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the addProductDuplicateTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:51:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the addProductDuplicateTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/store/WarehouseTest.java:52:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/store/WarehouseTest.java:52:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/store/WarehouseTest.java:52:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/store/WarehouseTest.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/test/java/store/WarehouseTest.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/test/java/store/WarehouseTest.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'amount' could be declared final
+src/test/java/store/WarehouseTest.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'amount' could be declared final
+src/test/java/store/WarehouseTest.java:55:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:55:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:59:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the deleteProductTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:59:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the deleteProductTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:60:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/store/WarehouseTest.java:60:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/store/WarehouseTest.java:60:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/store/WarehouseTest.java:60:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/store/WarehouseTest.java:61:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:61:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:65:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the deleteProductAbsentTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:65:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the deleteProductAbsentTest method if you want a default access modifier
+src/test/java/store/WarehouseTest.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/store/WarehouseTest.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/store/WarehouseTest.java:66:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/store/WarehouseTest.java:66:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/store/WarehouseTest.java:67:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/store/WarehouseTest.java:67:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
